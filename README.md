@@ -2,13 +2,13 @@ This is my personal portfolio website that showcases my skills, projects, certif
 
 The portfolio highlights my web development projects, technical skills, and academic background, providing a simple and professional way to present my work online.
 
-👨‍💻 About Me
+ About Me
 
 I am Manikala Phani Kumar, a B.Tech Computer Science Engineering student at Mohan Babu University with a strong interest in software development, web development, and problem solving.
 
 I enjoy building modern web applications using Java and web technologies and continuously improving my technical skills by working on real-world projects.
 
-🎓 Education
+Education
 
 B.Tech – Computer Science Engineering
 Mohan Babu University
@@ -21,7 +21,7 @@ AP State Board – 92%
 SSC
 AP State Board – 99%
 
-🛠️ Technical Skills
+Technical Skills
 
 Programming Languages
 
@@ -53,8 +53,8 @@ Debugging
 
 Code Optimization
 
-💻 Projects
-🌦 Weather Application
+Projects
+-Weather Application
 
 A weather application that displays real-time weather information for different cities.
 
@@ -76,7 +76,7 @@ Real-time temperature display
 
 Responsive design
 
-🛒 Baby E-commerce Website
+-Baby E-commerce Website
 
 An online store for baby products where users can browse products and manage a shopping cart.
 
@@ -98,7 +98,7 @@ Cart total calculation
 
 Local storage for cart management
 
-😂 Meme Generator
+-Meme Generator
 
 A web application that allows users to create custom memes with text overlays.
 
@@ -110,7 +110,7 @@ CSS
 
 JavaScript
 
-📜 Certifications
+-Certifications
 
 Wipro TalentNext Program
 
@@ -118,7 +118,7 @@ Java Certificate – HackerRank
 
 SQL Certificate – HackerRank
 
-📂 Portfolio Sections
+-Portfolio Sections
 
 The portfolio website contains the following sections:
 
@@ -138,7 +138,7 @@ Resume Download
 
 Contact Information
 
-🔗 Links
+-Links
 
 GitHub
 https://github.com/phanipspk447
@@ -149,6 +149,6 @@ https://www.linkedin.com/in/phani-kumar-manikala-a85a01257
 Email
 manikalaphanikumar@gmail.com
 
-📄 Resume
+-Resume
 
 You can download my resume directly from the portfolio website.
